@@ -26,6 +26,12 @@ Hardware required
 | 1 | Adafruit Feather | |
 | 1 | Breadboard/pcb for laying out components | |
 | ~ | Assorted M2 and M3 nuts and bolts | |
+| 1 | Barrel Jack 2.1mm x 5.5mm | https://www.aliexpress.com/item/4000585704812.html |
+| 1 | AC 110-240V to DC 12V 6A | https://www.aliexpress.com/item/1005001450636728.html |
+| 3 | A4988 Stepper Driver | https://www.aliexpress.com/item/1005001621706694.html |
+| 3 | TMC2209 Stepper Driver (Instead of A4988) | https://www.aliexpress.com/item/1005002965406330.html |
+| 1 | Pin Header Pairs 2.54mm pitch | https://www.aliexpress.com/item/32724478308.html |
+| 1 | Pin Header Jumpers 2.54mm pitch | https://www.aliexpress.com/item/32760056241.html |
 
 All part numbers in the pcb should be accurate, though again review and order at your own risk. Use KiCad to view/edit, it's free!
 

@@ -13,4 +13,4 @@ The BOM only contains surface mount components, and through hole will need to be
 |Pin Header Pairs 2.54mm pitch|1|https://www.aliexpress.com/item/32724478308.html|
 |Pin Header Jumpers 2.54mm pitch|1|https://www.aliexpress.com/item/32760056241.html|
 
-
+The above have been added to the main list of Hardware required.
