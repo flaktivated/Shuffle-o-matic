@@ -1,0 +1,40 @@
+{
+  "uuid": "d184413482f16e02f2d615113176d4c2",
+  "path": "Offline/Shufflrooo",
+  "name": "Shufflrooo",
+  "content": "",
+  "created_at": "2022-05-29 17:38:06",
+  "updated_at": "2022-05-29 19:28:15",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4bfae47286b0ea8c0849ae1da52d18ee",
+      "puuid": "d184413482f16e02f2d615113176d4c2",
+      "title": "pcb/KiCad Schematic",
+      "filename": "pcb KiCad Schematic.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e1fd29b57d5e4b95a31cad5a0b7220fb": 3,
+        "8e9b1be4bcb6420dbd1d09bf04b02792": 1,
+        "0b0f7e179ede420a8af2a98a7bbdc039": 1,
+        "9f9587859b7849bd99a531f226dddd5e": 3,
+        "08bc0477bfb1452c919a57f2793eb82b": 4,
+        "1fb6146406a34819a86e33d73e7677db": 1
+      },
+      "BOM": [],
+      "updateTime": 1653816495,
+      "createTime": 1653809887,
+      "histories": [],
+      "created_at": "2022-05-29 17:38:07",
+      "updated_at": "2022-05-29 19:28:15"
+    }
+  ],
+  "sort": [],
+  "title": "Shufflrooo",
+  "foldername": "Shufflrooo",
+  "schfilename": "Shufflrooo.json",
+  "schfilemtime": 1653809886878.9778
+}
