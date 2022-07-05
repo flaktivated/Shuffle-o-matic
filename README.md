@@ -16,14 +16,14 @@ Hardware required
 | 5 | Gates GT2 20t idlers with standoffs | |
 | 3 | Gates GT2 20t drive pulleys | |
 | 1 | MG90S servo | [MG90S servo](https://ebay.us/60Pxun) |
-| 1 | 600rpm micro gearbox motor | [DC 3V 6V 12V GA12-N20](https://www.aliexpress.com/item/4000274747864.html?spm=a2g0o.productlist.0.0.63e42e07j3CYN8&algo_pvid=cd6ee419-621c-4ffe-9044-3ffd2ae1bfeb&algo_expid=cd6ee419-621c-4ffe-9044-3ffd2ae1bfeb-0&btsid=0bb0623a16150221042227975ecf2c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)|
+| 1 | 12V 600rpm micro gearbox motor | [DC 3V 6V 12V GA12-N20](https://www.aliexpress.com/item/4000274747864.html?spm=a2g0o.productlist.0.0.63e42e07j3CYN8&algo_pvid=cd6ee419-621c-4ffe-9044-3ffd2ae1bfeb&algo_expid=cd6ee419-621c-4ffe-9044-3ffd2ae1bfeb-0&btsid=0bb0623a16150221042227975ecf2c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)|
 | 2 | MGN9 linear profile bearings, 135mm len | [MGN9C](https://www.aliexpress.com/item/32773296501.html?spm=a2g0o.cart.0.0.54873c00SIeLte&mp=1) |
 | 1 | MGN9 linear profile bearing, 95mm len | [MGN9C](https://www.aliexpress.com/item/32773296501.html?spm=a2g0o.cart.0.0.54873c00SIeLte&mp=1) |
 | 6 | 6700 bearing | [6700ZZ](https://www.aliexpress.com/item/32852057465.html?spm=a2g0o.cart.0.0.54873c00SIeLte&mp=1) |
 | 1 | Raspberry Pi | |
 | 1 | (optional) Raspberry Pi Camera V1.4 | |
 | 1 | (optional) 3x 3mm white led | |
-| 1 | Adafruit Feather | |
+| 1 | Adafruit Feather M4| https://www.aliexpress.com/item/1005004090594209.html |
 | 1 | Breadboard/pcb for laying out components | |
 | ~ | Assorted M2 and M3 nuts and bolts | |
 | 1 | Barrel Jack 2.1mm x 5.5mm | https://www.aliexpress.com/item/4000585704812.html |
